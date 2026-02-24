@@ -11,7 +11,7 @@
   ## 👀 About Me
   #### :raising_hand: Just student <br/>
   #### :fire: I aim to become a Cloud AI Engineer.<br/>
-  #### :mortar_board: 
+  #### :mortar_board: IBM X redhat 6
   <br/>
   <br/>
   
