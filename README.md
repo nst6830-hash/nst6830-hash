@@ -32,6 +32,7 @@
   
   ### ETC
   <!--Amazon AWS-->
+  <a href="https://github.com/Baikseungwoo/IBMxRadHat-Bootcamp-study-team2">1차 스터디</a>
   <br/>
   
   ## 🤔 Github Stats
