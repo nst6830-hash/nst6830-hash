@@ -3,7 +3,8 @@
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Noh's </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 새로운 아이디어로 접근하는 개발자 입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> AI와 백엔드 기술을 활용하여
+실제 문제를 해결하는 서비스를 개발하는 개발자입니다. </div> 
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
@@ -37,3 +38,50 @@
           /> </div> 
     </div>
     
+<div align="center">
+  <h2>🚀 Featured Projects</h2>
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏠 TUKTAK
+AI 기반 인테리어 견적 및 시공자 매칭 플랫폼
+
+#### 주요 기능
+- AI 견적 생성
+- AI 리스크 리포트
+- 실시간 시공자 매칭
+- 시공 진행 관리
+
+#### Tech
+`React` `FastAPI` `MySQL` `Docker`
+
+📂 Github : 프로젝트 링크
+
+📝 개발일지 : https://no-stay.tistory.com/
+
+</td>
+
+<td width="50%">
+
+### 📅 AI Schedule Assistant
+PDF 기반 일정 자동 추출 서비스
+
+#### 주요 기능
+- PDF 업로드
+- AI 일정 추출
+- JSON 변환
+- 캘린더 등록 자동화
+
+#### Tech
+`FastAPI` `Gemini API` `Python`
+
+📂 Github : 프로젝트 링크
+
+📝 개발일지 : https://no-stay.tistory.com/
+
+</td>
+</tr>
+</table>
