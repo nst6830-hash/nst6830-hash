@@ -78,10 +78,29 @@ PDF 기반 일정 자동 추출 서비스
 #### Tech
 `FastAPI` `Gemini API` `Python`
 
-📂 Github : 프로젝트 링크
-
 📝 개발일지 : https://no-stay.tistory.com/
 
 </td>
 </tr>
 </table>
+<div style="text-align: left;">
+<h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">
+🌱 Currently Learning
+</h2>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white">
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white">
+
+<img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/System_Design-4285F4?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/MSA-FF9800?style=for-the-badge">
+
+</div>
+</div>
