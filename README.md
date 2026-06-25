@@ -1,5 +1,10 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:002aff,100:00b8f5&height=180&text=Noh%20seung%20tae's%20profile&animation=fadeIn&fontColor=000000&fontSize=50" />
+    <div align="center">
+    <img src="https://avatars.githubusercontent.com/u/259040955?v=4"
+         width="180"
+         alt="Noh Seung Tae Profile"/>
+</div>
     </div>
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Noh's </h2>  
