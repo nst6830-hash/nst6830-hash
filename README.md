@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:002aff,100:00b8f5&height=180&text=Noh's%20Git hub%20Profile&animation=fadeIn&fontColor=ffffff&fontSize=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:002aff,100:00b8f5&height=180&text=Noh%27s%20Github%20Profile&animation=fadeIn&fontColor=ffffff&fontSize=50"/>
 </div>
 
 <h2>Noh's</h2>
@@ -13,7 +13,7 @@ AI와 백엔드 기술을 활용하여
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -43,15 +43,15 @@ AI와 백엔드 기술을 활용하여
 <div align="center">
 
 <a href="https://www.instagram.com/stack_steak/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://no-stay.tistory.com/">
-<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
 </a>
 
 <a href="mailto:nst6830@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -85,7 +85,7 @@ AI와 백엔드 기술을 활용하여
 | ✔ 시공 진행 관리 | ✔ Google Calendar 등록 |
 | **Tech**<br>React · FastAPI · MySQL · Docker | **Tech**<br>FastAPI · Gemini API · Python |
 | 📂 GitHub : 프로젝트 링크 | 📂 GitHub : 프로젝트 링크 |
-| 📝 https://no-stay.tistory.com | 📝 https://no-stay.tistory.com |
+| 📝 [개발일지](https://no-stay.tistory.com/) | 📝 [개발일지](https://no-stay.tistory.com/) |
 
 ---
 
@@ -94,15 +94,10 @@ AI와 백엔드 기술을 활용하여
 <div align="center">
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/System_Design-4285F4?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/MSA-FF9800?style=for-the-badge"/>
 
 </div>
