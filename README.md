@@ -72,20 +72,35 @@ AI와 백엔드 기술을 활용하여
 
 <div align="center">
 
+<div align="center">
+
 # 🚀 Featured Projects
 
 </div>
 
-| 🏠 TUKTAK | 📅 AI Schedule Assistant |
+| 🏠 TUKTAK | 💬 Community & Messenger |
 |-----------|--------------------------|
-| **AI 기반 인테리어 견적 및 시공자 매칭 플랫폼** | **PDF 기반 AI 일정 자동 등록 서비스** |
-| ✔ AI 견적 생성 | ✔ PDF 업로드 |
-| ✔ AI 리스크 리포트 | ✔ AI 일정 추출 |
-| ✔ 실시간 시공자 매칭 | ✔ JSON 변환 |
-| ✔ 시공 진행 관리 | ✔ Google Calendar 등록 |
-| **Tech**<br>React · FastAPI · MySQL · Docker | **Tech**<br>FastAPI · Gemini API · Python |
-| 📂 GitHub : 프로젝트 링크 | 📂 GitHub : 프로젝트 링크 |
-| 📝 [개발일지](https://no-stay.tistory.com/) | 📝 [개발일지](https://no-stay.tistory.com/) |
+| **AI 기반 인테리어 견적 및 시공자 매칭 플랫폼** | **로그인 기반 커뮤니티 & 실시간 메신저 웹 애플리케이션** |
+| ✔ AI 견적 생성 | ✔ 회원가입 / 로그인 |
+| ✔ AI 리스크 리포트 | ✔ 게시판 |
+| ✔ 실시간 시공자 매칭 | ✔ 실시간 메신저 |
+| ✔ 시공 진행 관리 | ✔ 사용자 인증 |
+| **Tech**<br>React · FastAPI · MySQL · Docker | **Tech**<br>React · JavaScript · Node.js |
+| 📂 GitHub<br>https://github.com/TUKTAKxAI | 📂 GitHub<br>https://github.com/Leegijun11/React-project |
+| 📝 개발일지<br>https://no-stay.tistory.com | |
+
+<br>
+
+| 📅 AI Schedule Assistant | 💪 Fitness Management API |
+|--------------------------|---------------------------|
+| **PDF 기반 AI 일정 자동 등록 서비스** | **운동 및 회원 관리를 위한 REST API 서버** |
+| ✔ PDF 업로드 | ✔ 회원 관리 |
+| ✔ AI 일정 추출 | ✔ 운동 기록 관리 |
+| ✔ JSON 변환 | ✔ CRUD API |
+| ✔ Google Calendar 등록 | ✔ RESTful API 설계 |
+| **Tech**<br>FastAPI · Gemini API · Python | **Tech**<br>Java · Spring Boot · MySQL |
+| 📂 GitHub<br>프로젝트 링크 | 📂 GitHub<br>https://github.com/kjfcvx12/middle_project_4 |
+| 📝 개발일지<br>https://no-stay.tistory.com | |
 
 ---
 
