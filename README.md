@@ -1,13 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:002aff,100:00b8f5&height=180&text=Noh%27s%20Github%20Profile&animation=fadeIn&fontColor=ffffff&fontSize=50"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2563eb,100:38bdf8&text=Noh%20Seung%20Tae&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=fadeIn&desc=AI%20%7C%20Backend%20Developer&descAlignY=62&descSize=18"/>
+
+# 👋 Hi, I'm Noh Seung Tae
+
+### AI & Backend Developer
+
+**AI와 백엔드 기술을 활용하여 실제 문제를 해결하는 서비스를 개발합니다.**
+
+현재 **LLM · RAG · FastAPI · Spring Boot**를 중심으로 학습하며  
+AI 기반 서비스를 직접 설계하고 개발하고 있습니다.
+
 </div>
-
-<h2>Noh's</h2>
-
-AI와 백엔드 기술을 활용하여  
-실제 문제를 해결하는 서비스를 개발하는 개발자입니다.
-
----
 
 # 🛠️ Tech Stacks
 
