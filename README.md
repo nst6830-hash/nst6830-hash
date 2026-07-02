@@ -205,20 +205,6 @@ AI 기반 서비스를 직접 설계하고 개발하고 있습니다.
 
 [🔗 GitHub Repository](https://github.com/kjfcvx12/middle_project_4)
 
-
-# 🌱 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/System_Design-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MSA-FF9800?style=for-the-badge"/>
-
-</div>
-
 ---
 
 # 🌱 Currently Learning
