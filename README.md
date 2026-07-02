@@ -62,9 +62,9 @@ AI와 백엔드 기술을 활용하여
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=nst6830-hash&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=nst6830-hash&show_icons=true&theme=radical"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nst6830-hash&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nst6830-hash&layout=compact&theme=radical"/>
 
 </div>
 
