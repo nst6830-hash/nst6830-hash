@@ -36,6 +36,9 @@ public class NohSeungTae {
         "Build AI services that solve real-world problems.";
 }
 
+````md
+}
+```
 # 🚀 Featured Projects
 
 ---
