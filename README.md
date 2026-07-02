@@ -21,6 +21,9 @@ AI 기반 서비스를 직접 설계하고 개발하고 있습니다.
 - 🌱 클라우드(AWS), MSA, System Design을 학습하며 더 나은 서비스를 만들기 위해 성장하고 있습니다.
 - 📝 기술 블로그를 운영하며 개발 경험과 문제 해결 과정을 기록하고 있습니다.
 
+### 💡 Interests
+
+`AI` · `Backend` · `FastAPI` · `Spring Boot` · `LLM` · `RAG` · `Cloud`
 
 # 🛠️ Tech Stacks
 
