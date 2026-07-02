@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:002aff,100:00b8f5&height=180&text=Noh%20Seung%20Tae&animation=fadeIn&fontColor=ffffff&fontSize=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:002aff,100:00b8f5&height=180&text=Noh's%20Git hub%20Profile&animation=fadeIn&fontColor=ffffff&fontSize=50"/>
 </div>
 
 <h2>Noh's</h2>
