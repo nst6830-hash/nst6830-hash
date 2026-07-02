@@ -77,23 +77,6 @@ AI 기반 서비스를 직접 설계하고 개발하고 있습니다.
 
 </p>
 
-# 🧑‍💻 Contact Me
-
-<div align="center">
-
-<a href="https://www.instagram.com/stack_steak/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://no-stay.tistory.com/">
-  <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
-</a>
-
-<a href="mailto:nst6830@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
 
 ---
 
@@ -233,5 +216,65 @@ AI 기반 서비스를 직접 설계하고 개발하고 있습니다.
 <img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/System_Design-4285F4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MSA-FF9800?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+> 현재 관심 있게 학습하고 있는 기술입니다.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-FF6B35?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System_Design-4285F4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MSA-FF9800?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 📫 Contact
+
+<div align="center">
+
+<a href="https://github.com/nst6830-hash">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://no-stay.tistory.com">
+<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/stack_steak/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:nst6830@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=nst6830-hash&style=for-the-badge&color=0E75B6"/>
 
 </div>
