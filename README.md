@@ -3,7 +3,7 @@
 </div>
     </div>
     <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> Noh's </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #fffff;"> Noh's </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> AI와 백엔드 기술을 활용하여
 실제 문제를 해결하는 서비스를 개발하는 개발자입니다. </div> 
     </div>
