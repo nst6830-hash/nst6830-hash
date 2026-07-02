@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2563eb,100:38bdf8&text=Noh%20Seung%20Tae&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=fadeIn&desc=AI%20%7C%20Backend%20Developer&descAlignY=62&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:2563eb,100:38bdf8&text=Noh%20Seung%20Tae&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=fadeIn&desc=AI%20%7C%20Developer&descAlignY=62&descSize=18"/>
 
 # 👋 Hi, I'm Noh Seung Tae
 
