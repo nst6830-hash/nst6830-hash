@@ -8,8 +8,15 @@ AI와 백엔드 기술을 활용하여
 실제 문제를 해결하는 서비스를 개발하는 개발자입니다.
 
 ---
+## 👋 About Me
 
+- 💻 AI & Backend Developer
+- 🎓 IBM x RedHat AI 과정 수료
+- 🏗️ AI 기반 인테리어 플랫폼 **TUKTAK** 개발 중
+- 🌱 Learning Spring Boot, AWS, MSA
+- 📝 Tech Blog : https://no-stay.tistory.com
 # 🛠️ Tech Stacks
+
 
 <div align="center">
 
