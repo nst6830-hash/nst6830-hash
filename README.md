@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm Noh Seung Tae
 
-### AI & Backend Developer
+### AI & Developer
 
 **AI와 백엔드 기술을 활용하여 실제 문제를 해결하는 서비스를 개발합니다.**
 
@@ -12,6 +12,15 @@
 AI 기반 서비스를 직접 설계하고 개발하고 있습니다.
 
 </div>
+## 👨‍💻 About Me
+
+- 💻 AI & Backend Developer
+- 🤖 AI를 활용하여 실제 문제를 해결하는 서비스를 만드는 것을 좋아합니다.
+- 🚀 FastAPI, Spring Boot 기반 백엔드 개발과 LLM, RAG 기술에 관심이 있습니다.
+- 🏗 현재 AI 기반 인테리어 플랫폼 **TUKTAK** 프로젝트를 개발하고 있습니다.
+- 🌱 클라우드(AWS), MSA, System Design을 학습하며 더 나은 서비스를 만들기 위해 성장하고 있습니다.
+- 📝 기술 블로그를 운영하며 개발 경험과 문제 해결 과정을 기록하고 있습니다.
+
 
 # 🛠️ Tech Stacks
 
