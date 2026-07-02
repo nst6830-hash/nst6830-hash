@@ -119,31 +119,102 @@ AI 기반 서비스를 직접 설계하고 개발하고 있습니다.
 
 </div>
 
-| 🏠 TUKTAK | 💬 Community & Messenger |
-|-----------|--------------------------|
-| **AI 기반 인테리어 견적 및 시공자 매칭 플랫폼** | **로그인 기반 커뮤니티 & 실시간 메신저 웹 애플리케이션** |
-| ✔ AI 견적 생성 | ✔ 회원가입 / 로그인 |
-| ✔ AI 리스크 리포트 | ✔ 게시판 |
-| ✔ 실시간 시공자 매칭 | ✔ 실시간 메신저 |
-| ✔ 시공 진행 관리 | ✔ 사용자 인증 |
-| **Tech**<br>React · FastAPI · MySQL · Docker | **Tech**<br>React · JavaScript · Node.js |
-| 📂 GitHub<br>https://github.com/TUKTAKxAI | 📂 GitHub<br>https://github.com/Leegijun11/React-project |
-| 📝 개발일지<br>https://no-stay.tistory.com | |
+## ⭐ TUKTAK
 
-<br>
+> 🚧 **Main Project**  
+> AI 기반 인테리어 견적, 리스크 분석, 시공자 매칭을 지원하는 올인원 플랫폼
 
-| 📅 AI Schedule Assistant | 💪 Fitness Management API |
-|--------------------------|---------------------------|
-| **PDF 기반 AI 일정 자동 등록 서비스** | **운동 및 회원 관리를 위한 REST API 서버** |
-| ✔ PDF 업로드 | ✔ 회원 관리 |
-| ✔ AI 일정 추출 | ✔ 운동 기록 관리 |
-| ✔ JSON 변환 | ✔ CRUD API |
-| ✔ Google Calendar 등록 | ✔ RESTful API 설계 |
-| **Tech**<br>FastAPI · Gemini API · Python | **Tech**<br>Java · Spring Boot · MySQL |
-| 📂 GitHub<br>프로젝트 링크 | 📂 GitHub<br>https://github.com/kjfcvx12/middle_project_4 |
-| 📝 개발일지<br>https://no-stay.tistory.com | |
+### 주요 기능
+
+- 🤖 AI 견적 생성
+- 📑 AI 리스크 리포트
+- 🔥 실시간 시공자 매칭
+- 🏗 시공 진행 관리
+
+### Tech Stack
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM-412991?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-FF6B35?style=flat-square"/>
+
+### Links
+
+[🔗 GitHub Repository](https://github.com/TUKTAKxAI)  
+[📝 Development Blog](https://no-stay.tistory.com)
 
 ---
+
+## 💬 Community & Messenger
+
+> 로그인 기반 커뮤니티 및 실시간 메신저 웹 애플리케이션
+
+### 주요 기능
+
+- 🔐 회원가입 / 로그인
+- 📝 게시글 작성
+- 💬 댓글 기능
+- 📨 실시간 메신저
+- 👤 사용자 인증
+
+### Tech Stack
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+
+### Links
+
+[🔗 GitHub Repository](https://github.com/Leegijun11/React-project)
+
+---
+
+## 📅 AI Schedule Assistant
+
+> PDF를 업로드하면 AI가 일정을 추출하여 캘린더 등록용 데이터로 변환하는 서비스
+
+### 주요 기능
+
+- 📄 PDF 업로드
+- 🤖 Gemini API 기반 일정 추출
+- 🧾 JSON 변환
+- 📆 캘린더 등록 자동화
+
+### Tech Stack
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square"/>
+
+### Links
+
+[📝 Development Blog](https://no-stay.tistory.com)
+
+---
+
+## 💪 Fitness Management API
+
+> 운동 및 회원 관리를 위한 RESTful API 서버
+
+### 주요 기능
+
+- 👤 회원 관리
+- 🏋️ 운동 기록 CRUD
+- 📋 운동 루틴 관리
+- ⚙️ REST API 설계
+
+### Tech Stack
+
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+### Links
+
+[🔗 GitHub Repository](https://github.com/kjfcvx12/middle_project_4)
+
 
 # 🌱 Currently Learning
 
